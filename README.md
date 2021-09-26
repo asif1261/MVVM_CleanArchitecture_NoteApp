@@ -1,6 +1,6 @@
 # Make Notes
 
-Make Notes app is Note making app build by following Clean Architecture 
+Make Notes app is a Note making app build by following Clean Architecture 
 with Model-View-ViewModel Pattern.
 
 # Features it offer:
