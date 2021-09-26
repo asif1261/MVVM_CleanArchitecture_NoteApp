@@ -14,7 +14,7 @@ with Model-View-ViewModel Pattern.
     2. Jetpack Compose for UI design,
     3. Dagger Hilt for dependency injection,
     4. Room for local database,
-    5. Follow MVVM architecture
+    5. Followed MVVM architecture to build the project.
 
 Please feel free to download, modify or add features on it if you want.
 
